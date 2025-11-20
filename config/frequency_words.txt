@@ -1,16 +1,16 @@
 企业
 +数字化
 
+项目管理
+
+CIO
+信息官
+
 智元
 灵犀
 稚晖君
 彭志辉
 
-bytedance
-张一鸣
-
-谷歌
-google
 gemini
 deepmind
 
@@ -18,35 +18,17 @@ chatgpt
 openai
 sora
 
-claude
-Anthropic
-
-iphone
-ipad
-mac
-ios
-
-ai
 !gai
 人工智能
 
-自动驾驶
 
 机器人
-
-国产
 
 科技
 
 核能
 
-水电站
-
 新质生产力
 
-月球
-登月
-火星
-宇宙
-飞船
 航空
+上海机场
